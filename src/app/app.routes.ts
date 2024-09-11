@@ -1,4 +1,4 @@
-import { Routes } from '@angular/router';
+import { RouterModule, Routes } from '@angular/router';
 import { FrontLayoutComponent } from './layouts/front-layout/front-layout.component';
 import { HomeComponent } from './home/home.component';
 import { AboutComponent } from './about/about.component';
