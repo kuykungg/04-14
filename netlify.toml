@@ -1,5 +1,5 @@
 [build]
-  publish = "dist/project02-14"  # Replace with your actual Angular app name
+  publish = "dist/project02-14/browser"  # Replace with your actual Angular app name
   command = "ng build --configuration production"
 
 [[redirects]]
